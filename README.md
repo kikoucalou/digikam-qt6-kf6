@@ -98,7 +98,16 @@ export QT_PLUGIN_PATH=$HOME/Qt/6.10/plugins
 8️⃣ Remarques
     • Ce tutoriel installe Qt6 et KF6 uniquement dans votre $HOME, aucun conflit avec le système.
     • Adapté pour Linux Mint 22.2, mais les chemins peuvent être modifiés pour d’autres distributions.
-    • Testé avec Digikam master et Qt6.10 + KF6.21.
+    • Testé avec Digikam master et Qt6.10 + KF6.22.
+
+digiKam: 8.9.0
+Environnement de développement de KDE: 6.22.0
+Qt: Par utilisation de 6.10.1 et avec compilation avec 6.10.1
+Linux Mint 22.2 (Xcb)
+Build ABI: x86_64-little_endian-lp64
+Kernel: linux 6.14.0-37-generic
+
+
 
 9️⃣ Références
     • Digikam Developer Docs
